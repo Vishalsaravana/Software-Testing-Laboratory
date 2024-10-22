@@ -233,9 +233,10 @@ Enter a string:
 
 
 
+### Output:
 
-
-
-
-### Result:
-Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
+![dowhilecode](https://github.com/user-attachments/assets/2b195db1-81d9-435e-a0c0-0b53353a6a33)![dowhileres](https://github.com/user-attachments/assets/61b0b908-0e0f-41fe-b625-6efdeeb235c4)
+![forcode](https://github.com/user-attachments/assets/d05d8866-8ff9-40c2-8761-0f2e5b7bc877)![forres](https://github.com/user-attachments/assets/a21a4ba0-01ad-4eaa-8589-ab5046401f97)
+![ifelsecode](https://github.com/user-attachments/assets/27858ca9-92dc-4839-af2e-4ab21f8f7667)![ifelseres](https://github.com/user-attachments/assets/1dd819ed-072d-4385-90da-9f9778a9ad1f)
+![switchcode](https://github.com/user-attachments/assets/3a9f279e-9adc-4073-b183-72a3081df314)![switchres](https://github.com/user-attachments/assets/5f89c54b-b1e1-41c1-aad6-ae139d8c2ce5)
+![whiledocode](https://github.com/user-attachments/assets/39284c95-b0a9-4d84-8110-d420a8e4cf25)![whiledores](https://github.com/user-attachments/assets/1208a77f-d828-4997-b58f-a0d5cd331e92)
