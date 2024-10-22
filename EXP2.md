@@ -134,9 +134,9 @@ be equal to number of rows in matrix ―bl, and rows & columns should be positiv
 
 ```
 
+### Output:
 
-
-
+![matrixcode](https://github.com/user-attachments/assets/512282d6-80e0-41f3-81db-5dafbf5ef813)![matrixres](https://github.com/user-attachments/assets/5eb8f6ec-6c47-4c1a-974a-a945c3974fa6)
 
 
 ### Result:
