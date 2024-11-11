@@ -169,5 +169,3 @@ Result: did not test this item, because no enough machines and no available envi
 
 ### Result: 
 Thus, the Test cases for library application is implemented and output is verified successfully.
-### Result: 
-Thus, the Test cases for library application is implemented and output is verified successfully.
