@@ -230,9 +230,6 @@ Null input
 Enter a string: 
 ```
 
-
-
-
 ### Output:
 
 ### i.)do…while:
@@ -245,8 +242,6 @@ Enter a string:
 ![ep4](https://github.com/user-attachments/assets/087ab6a6-bf57-4fad-b7c5-85d920dd5367)
 ### v.) for 
 ![ep5](https://github.com/user-attachments/assets/84f6e0e9-c0a2-4ec3-9c15-fdb299544bfb)
-
-### Result:
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
