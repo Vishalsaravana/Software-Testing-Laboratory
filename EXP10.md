@@ -14,23 +14,30 @@ we will test and how we will test.
 
 ### Result 
 ### GUI test 
+```
 Pass criteria: librarians could use this GUI to interface with the backend library database 
 without any difficulties 
 Result: pass
+```
 
 ### Database test 
+```
 Pass criteria: Results of all basic and advanced operations are normal (refer to section 4) 
 Result: pass 
+```
 
 ### Basic function test Add a student Pass criteria: 
+```
   Each customer/student should have following attributes: Student ID/SSN 
   (unique), Name, Address and Phone number. 
   Result: pass 
   The retrieved customer information by viewing customer detail should contain 
   the four attributes. 
   Result: pass 
-  
+```
+
 ### Update/delete student Pass criteria: 
+```
   The record would be selected using the student ID 
   Result: pass 
   Updates can be made on full. Items only: Name, Address, Phone number 
@@ -43,16 +50,20 @@ Result: pass
   Result: pass 
   If customer were deleted, it would not appear in further search queries. 
   Result: pass
-  
+```
+
 ### Add a book 
+```
   Pass criteria: 
   Each book shall have following attributes: Call Number, ISBN, Title, Author 
   name. 
   Result: pass 
   The retrieved book information should contain the four attributes. 
   Result: pass 
-  
+```
+
 ### Update/delete book 
+```
   Pass criteria: 
   The book item can be retrieved using the call number 
   Result: did not pass. Cannot redrive using the call number 
@@ -63,8 +74,9 @@ Result: pass
   The updated values would be reflected if the same call number is called for Result: 
   pass 
   If book were deleted, it would not appear in further search queries. Result: pass
-
+```
 ### Search for book
+```
 Pass criteria: 
   The product shall let Librarian query books„ detail information by their 
   ISBN number or Author or Title. 
@@ -91,8 +103,10 @@ Pass criteria:
   ISBN number should have same detail information. 
   Result: pass 
   The borrower’s list should agree with the data in student’s account Result: pass 
-  
+```
+
 ### Check-in book 
+```
 Pass criteria: 
   Librarians can check in a book using its call number 
   Result: pass 
@@ -106,8 +120,10 @@ Pass criteria:
   Result: did not pass 
   A book, which has been checked in once, should not be checked in again Result: 
   pass
-  
+```
+
 ### Check-out book 
+```
 Pass criteria:
   Librarians can check out a book using its call number Result: pass 
   The checkout can be initiated from a previous search operation where user has selected a set of 
@@ -132,9 +148,10 @@ Pass criteria:
   Books checked in should not display user summary 
   Result: pass 
   Books checked out should display correct user details. Result: pass 
-   
+```
+
 ### View student detail Pass criteria: 
-   
+```
   □ Librarians can select a user record for detailed view Result: pass 
   □ The detail view should show: 
   a. User name, ID, Address & Phone number Result: pass 
@@ -143,11 +160,14 @@ Pass criteria:
   □ The display should match existing user profile Result: pass 
   □ The books checked out should have their statuses marked Result: pass 
   □ The book search query should show the user id correctly. Result: pass 
- 
+```
 ### Network test 
- 
+ ```
 Pass criteria: Results of operations (ping, ftp and ODBC connectivity check) are normal 
 Result: did not test this item, because no enough machines and no available environment.
+```
 
+### Result: 
+Thus, the Test cases for library application is implemented and output is verified successfully.
 ### Result: 
 Thus, the Test cases for library application is implemented and output is verified successfully.
