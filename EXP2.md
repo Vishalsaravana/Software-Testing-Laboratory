@@ -78,62 +78,6 @@ else:
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-### Output:
-
-```
-Enter the size of a: 2 3
-Enter the size of b: 2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―a[] should be
-equal to the number of rows in matrix in b[] 
-
-
-Enter the size of a: p q
-Enter the size of b: q s
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―a[]
-should be equal to number of rows in matrix ―bl, and rows & columns should be integer
-values. 
-
-
-
-Enter the size of a: 1.5 2
-Enter the size of b: 2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―al should be
-equal to number of rows in matrix ―bl, and rows & columns should be integer values. 
-
-
-Enter the size of a: 350
-480 Enter the size of b:
-480 620
-Matrix multiplication is not possible.
-Reason to fail: size of buffer will be not be sufficient to handle this multiplication. 
-
-
-
-Enter the size of a: -
-1 -2 Enter the size of
-b: -2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―al should
-be equal to number of rows in matrix ―bl, and rows & columns should be positive integer values. 
-
-
-
-
-```
-
 ### Output:
 
 ![matrixcode](https://github.com/user-attachments/assets/512282d6-80e0-41f3-81db-5dafbf5ef813)![matrixres](https://github.com/user-attachments/assets/5eb8f6ec-6c47-4c1a-974a-a945c3974fa6)
